@@ -10,7 +10,7 @@ private: false
 updated_at: '2025-12-15T13:13:12+09:00'
 id: c2b4e55bf99185d21323
 organization_url_name: null
-slide: false
+slide: null
 ignorePublish: false
 ---
 
