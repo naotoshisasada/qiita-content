@@ -1,14 +1,14 @@
 ---
 title: Vibe CodingでVercelに無料でWebサイトをホスティングした
 tags:
-  - Vibe
-  - Vercel
-  - AI
   - Flask
   - 初心者向け
+  - AI
+  - Vibe
+  - Vercel
 private: false
-updated_at: ''
-id: null
+updated_at: '2025-12-15T13:54:43+09:00'
+id: 89e4e9d6e152d5202f85
 organization_url_name: null
 slide: false
 ignorePublish: false
